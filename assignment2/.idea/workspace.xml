@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1c7e0c9-8953-4588-8709-bedc7c5a3429" name="Default Changelist" comment="" />
+    <list default="true" id="c1c7e0c9-8953-4588-8709-bedc7c5a3429" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../assignment4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/.idea/modules/assignment4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/.idea/modules/assignment4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$0dc4065aaca40878c4fc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$0dc4065aaca40878c4fc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$0dc4065aaca40878c4fc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$191ab23675a9c254e998$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$191ab23675a9c254e998.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$191ab23675a9c254e998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$2b8cc99ce35749ae6632$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$2b8cc99ce35749ae6632.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$2b8cc99ce35749ae6632.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$6f0d4804312d8df97190$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$6f0d4804312d8df97190.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$6f0d4804312d8df97190.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$70953354801fa5267db4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$70953354801fa5267db4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$70953354801fa5267db4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$b8b61830f394e04b8cc6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$b8b61830f394e04b8cc6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$b8b61830f394e04b8cc6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +71,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XUjvOFBy9v8YuDtrrXIvWEIzvG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,7 +96,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.problem3">
+  <component name="RunManager" selected="Application.problem1">
     <configuration name="p1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="p1" />
       <module name="assignment2" />
@@ -81,9 +134,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem1" />
         <item itemvalue="Application.problem3" />
         <item itemvalue="Application.problem2" />
-        <item itemvalue="Application.problem1" />
         <item itemvalue="Application.p3" />
         <item itemvalue="Application.p1" />
       </list>
@@ -155,6 +208,7 @@
       <workItem from="1583351667598" duration="86000" />
       <workItem from="1583351819751" duration="7000" />
       <workItem from="1583356125426" duration="611000" />
+      <workItem from="1584933669650" duration="22000" />
     </task>
     <servers />
   </component>
@@ -166,22 +220,26 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="463" y="205" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.821@0.23.1440.821" timestamp="1581713763106" />
-    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1581896993378">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1584933690735">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
-    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1581896993378">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1584933690735" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1584933690734">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
-    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1581896993377">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1584933690734" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1584933690734">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1581896993377" />
-    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1581896993378">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1584933690734" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1584933690735">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1584933690735" />
     <state width="1358" height="244" key="GridCell.Tab.1.bottom" timestamp="1581896993379">
       <screen x="0" y="23" width="1440" height="821" />
     </state>

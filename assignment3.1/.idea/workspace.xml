@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="410e1cac-644b-4493-b4a3-94203e32a2c5" name="Default Changelist" comment="" />
+    <list default="true" id="410e1cac-644b-4493-b4a3-94203e32a2c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../assignment4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/.idea/modules/assignment4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/.idea/modules/assignment4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$0dc4065aaca40878c4fc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$0dc4065aaca40878c4fc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$0dc4065aaca40878c4fc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$191ab23675a9c254e998$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$191ab23675a9c254e998.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$191ab23675a9c254e998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$2b8cc99ce35749ae6632$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$2b8cc99ce35749ae6632.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$2b8cc99ce35749ae6632.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$6f0d4804312d8df97190$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$6f0d4804312d8df97190.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$6f0d4804312d8df97190.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$70953354801fa5267db4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$70953354801fa5267db4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$70953354801fa5267db4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$b8b61830f394e04b8cc6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$b8b61830f394e04b8cc6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/config-classes/$b8b61830f394e04b8cc6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +65,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Yg6B2LFtoeEqdbA5id1mCQd6Az" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -82,6 +136,11 @@
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
     </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -109,6 +168,7 @@
       <workItem from="1583523235804" duration="43000" />
       <workItem from="1583523320118" duration="48000" />
       <workItem from="1583710060461" duration="10048000" />
+      <workItem from="1584933704571" duration="18000" />
     </task>
     <servers />
   </component>
