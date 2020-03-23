@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="410e1cac-644b-4493-b4a3-94203e32a2c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yg6B2LFtoeEqdbA5id1mCQd6Az" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="problem1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem1" />
+      <module name="assignment3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.problem1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="assignment3" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment3-1 [file:/Users/ryanhu/Documents/work/340/assignment3.1/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment3-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3166703501270" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3331354762" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410e1cac-644b-4493-b4a3-94203e32a2c5" name="Default Changelist" comment="" />
+      <created>1583351750620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583351750620</updated>
+      <workItem from="1583351755139" duration="5416000" />
+      <workItem from="1583523235804" duration="43000" />
+      <workItem from="1583523320118" duration="48000" />
+      <workItem from="1583710060461" duration="10048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1583805726647">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1583805726647" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1583375721448" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1583805726646">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1583805726646" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1583375721447" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1583805726646">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1583805726646" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1583375721447" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1583805726647">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1583805726647" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1583375721448" />
+    <state x="403" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1583523236288">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="403" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1583523236287" />
+    <state x="103" y="136" key="new project wizard" timestamp="1583523365332">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="103" y="136" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1583523365332" />
+  </component>
+</project>

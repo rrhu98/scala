@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfc3e182-e9df-44c0-ab36-e140c0002364" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yli1Pj5EWtCEP1cNTfbUTEOB0y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.problem2">
+    <configuration name="problem1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem1" />
+      <module name="assignment3.2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem2" />
+      <module name="assignment3.2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.problem2" />
+        <item itemvalue="Application.problem1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="assignment3.2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment3-2 [file:/Users/ryanhu/Documents/work/340/assignment3.2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment3.2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3167046730757" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="293330533" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc3e182-e9df-44c0-ab36-e140c0002364" name="Default Changelist" comment="" />
+      <created>1583523365367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583523365367</updated>
+      <workItem from="1583523369562" duration="9193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="285" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583631392695">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="521" y="285" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.828@0.23.1440.828" timestamp="1583631392695" />
+    <state width="1362" height="196" key="GridCell.Tab.0.bottom" timestamp="1583709798745">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1362" height="196" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1583709798745" />
+    <state width="1362" height="196" key="GridCell.Tab.0.center" timestamp="1583709798745">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1362" height="196" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1583709798745" />
+    <state width="1362" height="196" key="GridCell.Tab.0.left" timestamp="1583709798744">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1362" height="196" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1583709798744" />
+    <state width="1362" height="196" key="GridCell.Tab.0.right" timestamp="1583709798745">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1362" height="196" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1583709798745" />
+  </component>
+</project>

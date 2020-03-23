@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1c7e0c9-8953-4588-8709-bedc7c5a3429" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XUjvOFBy9v8YuDtrrXIvWEIzvG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.problem3">
+    <configuration name="p1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="p1" />
+      <module name="assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="p3" />
+      <module name="assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem1" />
+      <module name="assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem2" />
+      <module name="assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem3" />
+      <module name="assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.problem3" />
+        <item itemvalue="Application.problem2" />
+        <item itemvalue="Application.problem1" />
+        <item itemvalue="Application.p3" />
+        <item itemvalue="Application.p1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="assignment2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment2 [file:/Users/ryanhu/Documents/work/340/assignment2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3162215595484" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2910482053" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c7e0c9-8953-4588-8709-bedc7c5a3429" name="Default Changelist" comment="" />
+      <created>1581107797430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581107797430</updated>
+      <workItem from="1581107800566" duration="2232000" />
+      <workItem from="1581642874215" duration="37849000" />
+      <workItem from="1582871300347" duration="1019000" />
+      <workItem from="1583351667598" duration="86000" />
+      <workItem from="1583351819751" duration="7000" />
+      <workItem from="1583356125426" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="205" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581713763106">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="463" y="205" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.821@0.23.1440.821" timestamp="1581713763106" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1581896993378">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1581896993378">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1581896993377">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1581896993377" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1581896993378">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
+    <state width="1358" height="244" key="GridCell.Tab.1.bottom" timestamp="1581896993379">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1581896993379" />
+    <state width="1358" height="244" key="GridCell.Tab.1.center" timestamp="1581896993378">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
+    <state width="1358" height="244" key="GridCell.Tab.1.left" timestamp="1581896993378">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1581896993378" />
+    <state width="1358" height="244" key="GridCell.Tab.1.right" timestamp="1581896993379">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1581896993379" />
+    <state x="417" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1583351677613">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="417" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1581642873504" />
+    <state x="417" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1583351677613" />
+    <state x="80" y="192" key="new project wizard" timestamp="1583351750577">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="80" y="192" key="new project wizard/0.23.1440.829@0.23.1440.829" timestamp="1583351750577" />
+  </component>
+</project>
