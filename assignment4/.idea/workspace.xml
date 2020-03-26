@@ -2,53 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0b1ad35-2904-49c4-b284-031a9120d585" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment3.2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/assignment4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem2/problem2.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem2/problem2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/problem2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/problem3.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0dc4065aaca40878c4fc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0dc4065aaca40878c4fc.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0dc4065aaca40878c4fc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$191ab23675a9c254e998$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$191ab23675a9c254e998.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$191ab23675a9c254e998.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2b8cc99ce35749ae6632$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2b8cc99ce35749ae6632.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2b8cc99ce35749ae6632.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6f0d4804312d8df97190$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6f0d4804312d8df97190.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6f0d4804312d8df97190.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70953354801fa5267db4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70953354801fa5267db4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70953354801fa5267db4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b8b61830f394e04b8cc6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b8b61830f394e04b8cc6.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b8b61830f394e04b8cc6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1/problem1.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/problem1/problem1.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$ClientActor$$anonfun$receive$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$ClientActor$$anonfun$receive$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$FibActor$$anonfun$receive$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$FibActor$$anonfun$receive$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$FibActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/problem1$FibActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/problem1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +57,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.problem3">
     <configuration name="problem1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="problem1" />
       <module name="assignment4" />
@@ -100,8 +65,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem2" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="problem3" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem3" />
+        <item itemvalue="Application.problem2" />
         <item itemvalue="Application.problem1" />
       </list>
     </recent_temporary>
@@ -133,6 +114,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3169672682130" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2571523551" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
@@ -161,7 +143,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584836294315</updated>
       <workItem from="1584836297673" duration="23041000" />
-      <workItem from="1584933351288" duration="290000" />
+      <workItem from="1584933351288" duration="10460000" />
+      <workItem from="1585086271215" duration="28086000" />
     </task>
     <servers />
   </component>
@@ -173,45 +156,53 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="320" y="102" key="#Project_Structure/0.23.1440.828@0.23.1440.828" timestamp="1584836347758" />
-    <state x="458" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584931132056">
+    <state x="458" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585179675057">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state x="458" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.828@0.23.1440.828" timestamp="1584931132056" />
-    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1584932443542">
+    <state x="458" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.828@0.23.1440.828" timestamp="1585179675057" />
+    <state width="1059" height="214" key="GridCell.Tab.0.bottom" timestamp="1585192787417">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1584932443542" />
-    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1584932443542">
+    <state width="1059" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1585192787417" />
+    <state width="1059" height="214" key="GridCell.Tab.0.center" timestamp="1585192787416">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1584932443542" />
-    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1584932443541">
+    <state width="1059" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1585192787416" />
+    <state width="1059" height="214" key="GridCell.Tab.0.left" timestamp="1585192787415">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1584932443541" />
-    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1584932443542">
+    <state width="1059" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1585192787415" />
+    <state width="1059" height="214" key="GridCell.Tab.0.right" timestamp="1585192787416">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1584932443542" />
-    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1584920608518">
+    <state width="1059" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1585192787416" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1585192761894">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1584920608518" />
-    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1584920608517">
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1585192761894" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1585192761894">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1584920608517" />
-    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1584920608516">
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1585192761894" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1585192761894">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1584920608516" />
-    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1584920608517">
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1585192761894" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1585192761894">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1584920608517" />
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1584836297744">
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1585192761894" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1585086337589">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1584836297744" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1585086337589" />
+    <state x="378" y="72" width="683" height="729" key="find.popup" timestamp="1585114611327">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="378" y="72" width="683" height="729" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1585114611327" />
+    <state x="385" y="175" width="670" height="676" key="search.everywhere.popup" timestamp="1585123939771">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="385" y="175" width="670" height="676" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1585123939771" />
   </component>
 </project>

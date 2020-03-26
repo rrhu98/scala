@@ -13,7 +13,12 @@ object problem1 extends App{
     def receive = {
       case fibNbr(num) =>
         println(s"${self.path} received fib number $num")
-        fibActor ! fibNbr(num)
+        if (num < 0) {
+          println("Invalid input, please enter an integer 0 or above")
+        }
+        else {
+          fibActor ! fibNbr(num)
+        }
       case int =>
         println("the fibonacci number is: " + int)
     }
@@ -47,6 +52,7 @@ object problem1 extends App{
 
   val system = ActorSystem("fibCalc")
 
+  val fibTest = fibNbr(-1)
   val fibTest0 = fibNbr(0)
   val fibTest1 = fibNbr(1)
   val fibTest2 = fibNbr(2)
@@ -56,6 +62,7 @@ object problem1 extends App{
   val fibActor = system.actorOf(Props[FibActor], "fibActor")
   val clientActor = system.actorOf(Props(new ClientActor(fibActor)), "clientActor")
 
+  clientActor ! fibTest
   clientActor ! fibTest0
   clientActor ! fibTest1
   clientActor ! fibTest2
